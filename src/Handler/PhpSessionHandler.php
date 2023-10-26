@@ -6,5 +6,4 @@
 
 
     class PhpSessionHandler extends SessionHandlerAbstracted
-    {
-    }
+    { }
